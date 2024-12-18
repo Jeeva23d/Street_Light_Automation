@@ -88,7 +88,7 @@ Manage solar charging during the day.
 
 
 
-https://github.com/user-attachments/assets/e80d618a-0ed4-44e3-a1ed-7790420ece8e
+
 
 
 
