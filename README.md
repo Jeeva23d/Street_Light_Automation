@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/8d2dbda1-8e34-408e-88c8-755586e350a3
 # Street_Light_Automation
 
 Overview
@@ -87,7 +86,15 @@ Manage solar charging during the day.
 **Future Enhancements**
 
 
-https://github.com/user-attachments/assets/a442a131-8542-4ad5-b914-0338c7d0943e
+
+
+https://github.com/user-attachments/assets/e80d618a-0ed4-44e3-a1ed-7790420ece8e
+
+
+
+https://github.com/user-attachments/assets/1bb43a71-bed5-4fbc-a950-f27d97e8ddd3
+
+
 
 
 
